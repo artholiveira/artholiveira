@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">-Estudando Html<br>-Ele/Dele<br>-Adoro Gatos<br>-Front-End</p>
+<p align="left">-Estudando Html<br>-Ele/Dele<br>-Adoro Guaxinims</p>
 
 ###
 
