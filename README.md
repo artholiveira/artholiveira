@@ -34,7 +34,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://x.com/oraylops" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="53" height="34" alt="twitter logo"  />
   </a>
