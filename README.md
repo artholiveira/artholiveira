@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I am Arthur and i'm from Vinhedo-SP.<br><br>- 📚 I'm currently learning HTML, Css and Cpp.<br>- ⚡ In my free time I watch Ordem Paranormal RPG<br>-🕳 I'm love RPG and Percy Jackson books.</p>
+<p align="left">I am Arthur and i'm from Vinhedo-SP.<br><br>- 📚 I'm currently learning HTML, Python and C.<br>- ⚡ In my free time I watch Ordem Paranormal RPG<br>-🕳 I'm love RPG and Percy Jackson books.</p>
 
 ###
 
