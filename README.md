@@ -4,10 +4,6 @@
 
 ###
 
-<h1 align="center">hello guys, my name is arthur</h1>
-
-###
-
 <h2 align="left">🦝 About Me</h2>
 
 ###
